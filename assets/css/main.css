@@ -3219,3 +3219,25 @@ input, select, textarea {
 			}
 
 	}
+
+
+
+	.logos {
+            width: 3rem;
+            height: 3rem;
+
+        }
+
+	.logo-images {
+		/* width: 80%; */
+		display: flex;
+		flex-wrap: wrap;
+		gap: 2.5rem;
+	}
+
+
+	.logo-images p {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
